@@ -1,1 +1,1 @@
-Mystical Workshop
+Firebase for Mystical Workshop
